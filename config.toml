@@ -1,0 +1,8 @@
+baseURL = "http://blog.joyble.com/"
+languageCode = "zh"
+title = "DUDOR's BLOG"
+theme = "hyde"
+[permalinks]
+    post = "/:year/:month/:day/:title/"
+[params]
+    description = "欢迎来到这个杂乱无章的地方！"
