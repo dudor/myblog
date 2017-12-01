@@ -1,7 +1,7 @@
 ---
 title: "Vscode With Git Bash"
 date: 2017-12-01T20:54:58+08:00
-draft: true
+draft: false
 ---
 
 ## 打开VSCode，点击 文件 \ 首选项 \ 用户设置，这是我的配置。
